@@ -13,11 +13,13 @@ Just a little bit of playing around with the famous evolving model system design
 
 ### Contents:
 
-In this workbook, a game of life engine is implemented in python, with 3 possible mechanism of pattern genergations:
+In this notebook, a game of life engine is implemented in python, with 3 possible mechanism of pattern genergations:
 * Paterns can be randomly generated ("soup").
 * An established pattern can be downloaded from the [cetral pattern library](http://www.conwaylife.com/wiki/Category:Patterns).
 * A bitmap of a pattern can be read pixel by pixel to reconstruct the pattern.
 
-An example input for the latter solution:
+__An example input for the latter solution:__
 
 ![GOL input bimap](https://raw.githubusercontent.com/DSuveges/GameOfLife/master/Breeder_wiki.png)
+
+The ipython notebook contains steps to generate nice animation as well.
