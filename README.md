@@ -20,4 +20,4 @@ In this workbook, a game of life engine is implemented in python, with 3 possibl
 
 An example input for the latter solution:
 
-[!GOL input bimap](https://raw.githubusercontent.com/DSuveges/GameOfLife/master/Breeder_wiki.png)
+![GOL input bimap](https://raw.githubusercontent.com/DSuveges/GameOfLife/master/Breeder_wiki.png)
